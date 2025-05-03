@@ -7,65 +7,70 @@
     "links": [
         {
             "title": "Instagram",
-            "url": "https://instagram.com/yourusername",
+            "url": "https://www.instagram.com/zxxkyuu",
             "icon": "fab fa-instagram"
         },
         {
-            "title": "Twitter",
-            "url": "https://twitter.com/yourusername",
-            "icon": "fab fa-twitter"
-        },
-        {
             "title": "YouTube",
-            "url": "https://youtube.com/yourchannel",
+            "url": "https://youtube.com/@zxyureal",
             "icon": "fab fa-youtube"
         },
         {
             "title": "Website",
-            "url": "https://yourwebsite.com",
+            "url": "https://zenz-aimd.vercel.app/",
             "icon": "fas fa-globe"
         },
         {
             "title": "TikTok",
-            "url": "https://tiktok.com/@yourusername",
+            "url": "tiktok.com/@zenzzx26",
             "icon": "fab fa-tiktok"
         },
-        {
-            "title": "Pinterest",
-            "url": "https://pinterest.com/yourusername",
-            "icon": "fab fa-pinterest"
-        },
-        {
-            "title": "GitHub",
-            "url": "https://github.com/yourusername",
-            "icon": "fab fa-github"
-        },
-        {
-            "title": "LinkedIn",
-            "url": "https://linkedin.com/in/yourusername",
-            "icon": "fab fa-linkedin"
-        }
     ],
-    "music": {
-        "title": "Your Song Title",
-        "artist": "Artist Name",
-        "albumArt": "YOUR_ALBUM_ART_URL_HERE",
-        "audioFile": "YOUR_AUDIO_FILE_URL.mp3", 
-        "duration": 180,
-        "timeSync": [
-            { "time": 0, "text": "Intro music..." },
-            { "time": 5, "text": "First verse line 1\nBaris terjemahan" },
-            { "time": 10, "text": "First verse line 2\nBaris terjemahan" },
-            { "time": 15, "text": "First verse line 3\nBaris terjemahan" },
-            { "time": 20, "text": "First verse line 4\nBaris terjemahan" },
-            { "time": 25, "text": "Pre-chorus line 1\nBaris terjemahan" },
-            { "time": 30, "text": "Pre-chorus line 2\nBaris terjemahan" },
-            { "time": 35, "text": "Chorus line 1\nBaris terjemahan" },
-            { "time": 40, "text": "Chorus line 2\nBaris terjemahan" },
-            { "time": 45, "text": "Chorus line 3\nBaris terjemahan" },
-            { "time": 50, "text": "Chorus line 4\nBaris terjemahan" },
-            { "time": 55, "text": "Post-chorus\nBaris terjemahan" },
-            { "time": 60, "text": "Second verse line 1\nBaris terjemahan" }
-        ]
-    }
+"music": {
+  "title": "Nina",
+  "artist": ".Feast",
+  "album": "Membangun & Menghancurkan",
+  "albumArt": "https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt?si=YWwatU7tTRCck7XgTrPPVw",
+  "audioFile": "https://files.catbox.moe/0kyc2m.mp3",
+  "duration": 180,
+  "timeSync": [
+    { "time": 0, "text": "Saat engkau tertidur\nWhen you fall asleep" },
+    { "time": 5, "text": "Aku pergi menghibur\nI go to entertain" },
+    { "time": 10, "text": "Beda kota, pisah raga, bukan masalahku\nDifferent cities, apart bodies, not my problem" },
+    { "time": 15, "text": "Lihat wajahmu di layar, ku tetap bersyukur\nSee your face on the screen, I'm still grateful" },
+    { "time": 20, "text": "Saat engkau terjaga\nWhen you awaken" },
+    { "time": 25, "text": "Aku 'kan ada di sana\nI'll be there" },
+    { "time": 30, "text": "Sempatkan bermain dan bawakan cendera mata\nMake time to play and bring souvenirs" },
+    { "time": 35, "text": "Satu sampai lima tahun, cepat tak terasa\n1 to 5 years, flies by" },
+    { "time": 40, "text": "Segala hal kuupayakan untuk melindungi\nI strive to protect everything" },
+    { "time": 45, "text": "Tunggu aku kembali lagi esok pagi\nWait for me to return tomorrow morning" },
+    { "time": 50, "text": "Tumbuh lebih baik, cari panggilanmu\nGrow better, find your calling" },
+    { "time": 55, "text": "Jadi lebih baik dibanding diriku\nBe better than me" },
+    { "time": 60, "text": "'Tuk sementara ini aku mengembara jauh\nFor now, I wander far" },
+    { "time": 65, "text": "Saat dewasa kau 'kan mengerti\nWhen you're grown, you'll understand" },
+    { "time": 70, "text": "Saat engkau dewasa\nWhen you are grown" },
+    { "time": 75, "text": "Dan aku kian menua\nAnd I grow older" },
+    { "time": 80, "text": "Jika ku berpulang lebih awal, tidak apa\nIf I go early, it's okay" },
+    { "time": 85, "text": "Berjumpa lagi di sana, aku tetap sama\nWe'll meet again there, I'll still be the same" },
+    { "time": 90, "text": "Saat engkau teringat\nWhen you remember" },
+    { "time": 95, "text": "Tengkar kita, manakala\nOur quarrels back then" },
+    { "time": 100, "text": "Maaf atas perjalanan yang tidak sempurna\nSorry for the imperfect journey" },
+    { "time": 105, "text": "Namun percayalah, untukmu kujual dunia\nBut believe me, I'd sell the world for you" },
+    { "time": 110, "text": "Segala hal kuupayakan untuk melindungi\nI strive to protect everything" },
+    { "time": 115, "text": "Tunggu aku kembali lagi esok pagi\nWait for me to return tomorrow morning" },
+    { "time": 120, "text": "Tumbuh lebih baik, cari panggilanmu\nGrow better, find your calling" },
+    { "time": 125, "text": "Jadi lebih baik dibanding diriku\nBe better than me" },
+    { "time": 130, "text": "Dan tertawalah saat ini selepas-lepasnya\nAnd laugh now as freely as you can" },
+    { "time": 135, "text": "Kar'na kelak kau 'kan tersakiti\nBecause someday you'll be hurt" },
+    { "time": 140, "text": "Aku tahu kamu hebat\nI know you're great" },
+    { "time": 145, "text": "Namun, s'lamanya diriku pasti berkutat\nBut I will always be around" },
+    { "time": 150, "text": "'Tuk s'lalu jauhkanmu dari dunia yang jahat\nTo protect you from a cruel world" },
+    { "time": 155, "text": "Ini sumpahku padamu 'tuk biarkanmu\nThis is my vow to let you" },
+    { "time": 160, "text": "Tumbuh lebih baik, cari panggilanmu\nGrow better, find your calling" },
+    { "time": 165, "text": "Jadi lebih baik dibanding diriku\nBe better than me" },
+    { "time": 170, "text": "'Tuk sementara kita tertawakan berbagai hal\nFor now let's laugh at all things" },
+    { "time": 175, "text": "Yang lucu dan lara selepas-lepasnya\nFunny or sad, as freely as we can" },
+    { "time": 178, "text": "Saat dewasa kau 'kan mengerti\nWhen you grow up, you'll understand" },
+    { "time": 180, "text": "Kar'na kelak kau 'kan tersakiti\nBecause someday you'll be hurt" }
+  ]
 }
